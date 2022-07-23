@@ -11,7 +11,7 @@ export class CollectionsHomeComponent implements OnInit {
     {
       name: 'Qadeer',
       age: 35,
-      job: 'Senior Architect',
+      job: 'Senior Developer',
     },
     {
       name: 'Iffu',
